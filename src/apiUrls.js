@@ -1,0 +1,1 @@
+export const testApi = process.env.TEST_API_URL
